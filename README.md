@@ -64,7 +64,7 @@ Ferramentas de Desenvolvimento
 
 5. Avaliação
 
-4.2 Métricas utilizadas:
+5.1 Métricas utilizadas:
 - Acuracia: Precisão geral
 
 ## 📁 Estrutura dos Dados
