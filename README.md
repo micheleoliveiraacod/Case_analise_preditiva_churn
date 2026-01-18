@@ -42,3 +42,5 @@ Métricas utilizadas:
 ## 📁 Estrutura dos Dados
 
 ## 📄 Licença
+Todo o conteúdo é compartilhado sob a Licença MIT.
+Você pode usar, modificar e compartilhar esses recursos livremente.
