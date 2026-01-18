@@ -2,7 +2,7 @@
 
 ## 📋 Visão Geral
 
-Este projeto implementa um sistema de Machine Learning para predição de churn (evasão) de clientes, utilizando técnicas avançadas de análise de dados e algoritmos de classificação para identificar clientes com alta probabilidade de cancelamento.
+Este projeto implementa um sistema de Machine Learning para predição de churn (evasão) de clientes, utilizando técnicas de análise de dados e algoritmos de classificação para identificar clientes com alta probabilidade de cancelamento.
 
 ## 🎯 Objetivos
 
@@ -10,11 +10,9 @@ Objetivo Principal: Desenvolver um modelo preditivo para identificar clientes pr
 
 Objetivos Específicos:
 Analisar padrões comportamentais dos clientes
-Implementar e comparar diferentes algoritmos de ML
 Fornecer insights acionáveis para retenção de clientes
 Criar visualizações interpretáveis dos resultados
-
-## 🏗️ Arquitetura do Projeto
+Implementar e comparar diferentes algoritmos de ML
 
 ## 🔧 Tecnologias Utilizadas
 
