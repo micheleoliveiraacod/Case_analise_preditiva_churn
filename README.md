@@ -37,20 +37,29 @@ Ferramentas de Desenvolvimento
 - Git: Controle de versão
 
 ## 📊 Metodologia
+
 1. Análise Exploratória
 
 Estatísticas descritivas dos dados
+
 Identificação de padrões
+
 Visualização da distribuição do target (churn)
-...
+
 2. Pré-processamento
+
 Tratamento de valores ausentes
+
 Codificação de variáveis categóricas e numéricas
+
 Normalização/padronização de features numéricas
+
 Divisão dos dados (treino 70% e teste 30%)
-...
+
 3. Feature Engineering
+
 Criação de novas variáveis derivadas
+
 Seleção de features relevantes
 
 4. Modelagem
