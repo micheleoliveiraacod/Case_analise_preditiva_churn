@@ -58,13 +58,13 @@ Ferramentas de Desenvolvimento
 
 4. Modelagem
 
-Algoritmos implementados:
+  Algoritmos implementados:
 - Árvore de decisao (Escolhido para fazer a aprevisão)
 - KNN
 
 5. Avaliação
 
-Métricas utilizadas:
+  Métricas utilizadas:
 - Acuracia: Precisão geral
 
 ## 📁 Estrutura dos Dados
