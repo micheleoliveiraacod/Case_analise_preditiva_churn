@@ -40,32 +40,26 @@ Ferramentas de Desenvolvimento
 
 1. Análise Exploratória
 
-Estatísticas descritivas dos dados
-
-Identificação de padrões
-
-Visualização da distribuição do target (churn)
+- Estatísticas descritivas dos dados
+- Identificação de padrões
+- Visualização da distribuição do target (churn)
 
 2. Pré-processamento
 
-Tratamento de valores ausentes
-
-Codificação de variáveis categóricas e numéricas
-
-Normalização/padronização de features numéricas
-
-Divisão dos dados (treino 70% e teste 30%)
+- Tratamento de valores ausentes
+- Codificação de variáveis categóricas e numéricas
+- Normalização/padronização de features numéricas
+- Divisão dos dados (treino 70% e teste 30%)
 
 3. Feature Engineering
 
-Criação de novas variáveis derivadas
-
-Seleção de features relevantes
+- Criação de novas variáveis derivadas
+- Seleção de features relevantes
 
 4. Modelagem
 
 Algoritmos implementados:
-- Árvore de decisao: Escolhido para fazer  aprevisão
+- Árvore de decisao (Escolhido para fazer a aprevisão)
 - KNN
 
 5. Avaliação
