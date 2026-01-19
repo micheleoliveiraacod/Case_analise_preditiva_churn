@@ -2,7 +2,7 @@
 
 ## 📋 Visão Geral
 
-Este projeto implementa um sistema de Machine Learning para predição de churn (evasão) de clientes, utilizando técnicas de análise de dados e algoritmos de classificação para identificar clientes com alta probabilidade de cancelamento.
+Este projeto se trata de um algoritimo de Machine Learning para predição de churn (evasão) de clientes, utilizando técnicas de análise de dados e algoritmos de classificação para identificar clientes com alta probabilidade de cancelamento. Modelo estatistico de arvore de decisão.
 
 ## 🎯 Objetivos
 
@@ -60,7 +60,7 @@ Ferramentas de Desenvolvimento
 
 Algoritmos implementados:
 - Árvore de decisao (Escolhido para fazer a aprevisão)
-- KNN
+- K-NN
 
 5. Avaliação
 
