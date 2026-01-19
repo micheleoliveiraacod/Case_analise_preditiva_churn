@@ -25,9 +25,6 @@ Linguagens e Frameworks
 - Ipykernel: Execução notebooks
 - NumPy: Computação numérica
 - Scikit-learn: Algoritmos de Machine Learning
-
-Visualização
-
 - Plotly: Gráficos interativos
 
 Ferramentas de Desenvolvimento
